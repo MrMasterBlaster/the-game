@@ -1,0 +1,58 @@
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\RPG.exe
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\RPG.pdb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\obj\x86\Debug\RPG.exe
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\obj\x86\Debug\RPG.pdb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\obj\x86\Debug\RPG.csprojResolveAssemblyReference.cache
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\Circle0.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\Circle1.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\Circle2.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\Rect0.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\Rect1.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\Rect2.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\GreenHealth.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\Border.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\YelowHealth.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\Star.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\Pause.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\0259310.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\025937.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\025938.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\025939.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\SwordsClangs.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\SwordsClangs1.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\Slash - Anastasia.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\Ayreon - Day Seven_ Hope.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\English Towne.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\Slash - Anastasia.wma
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\Ayreon - Day Seven_ Hope.wma
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\TextBox.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\Arrow.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\CircleShoot.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\RectShoot.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\ArrowHit0.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\ArrowHit1.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\ArrowHit2.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\ArrowHit3.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\ArrowHit4.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\ArrowShoot0.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\ArrowShoot1.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\ArrowShoot2.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\ArrowShoot3.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\DamageEffectTexture.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\SelectedTextBox.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\BackGroundCreateUnitForm.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\IsRangeCheckBoxNo.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\IsRangeCheckBoxYes.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\CancelButtonCreateUnitForm.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Debug\Content\CreateButtonCreateUnitForm.xnb

@@ -1,0 +1,58 @@
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\Circle0.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\Circle1.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\Circle2.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\Rect0.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\Rect1.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\Rect2.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\GreenHealth.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\Border.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\YelowHealth.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\Star.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\Pause.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\TextBox.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\Arrow.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\CircleShoot.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\RectShoot.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\DamageEffectTexture.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\SelectedTextBox.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\BackGroundCreateUnitForm.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\IsRangeCheckBoxNo.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\IsRangeCheckBoxYes.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\CancelButtonCreateUnitForm.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\CreateButtonCreateUnitForm.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\0259310.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\025937.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\025938.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\025939.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\SwordsClangs.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\SwordsClangs1.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\Slash - Anastasia.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\Ayreon - Day Seven_ Hope.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\ArrowHit0.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\ArrowHit1.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\ArrowHit2.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\ArrowHit3.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\ArrowHit4.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\ArrowShoot0.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\ArrowShoot1.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\ArrowShoot2.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\ArrowShoot3.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\English Towne.xnb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\Slash - Anastasia.wma
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Content\Ayreon - Day Seven_ Hope.wma
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\RPG.exe
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\RPG.pdb
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Microsoft.Xna.Framework.dll
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Microsoft.Xna.Framework.Game.dll
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Microsoft.Xna.Framework.GamerServices.dll
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Microsoft.Xna.Framework.Graphics.dll
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Microsoft.Xna.Framework.Input.Touch.dll
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Microsoft.Xna.Framework.xml
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Microsoft.Xna.Framework.Game.xml
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Microsoft.Xna.Framework.Graphics.xml
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Microsoft.Xna.Framework.GamerServices.xml
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\bin\x86\Release\Microsoft.Xna.Framework.Input.Touch.xml
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\obj\x86\Release\RPG.csprojResolveAssemblyReference.cache
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\obj\x86\Release\RPG.exe
+D:\Архив\МоиПрограммы\RPG\RPG\RPG\RPG\obj\x86\Release\RPG.pdb
